@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "appState": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
